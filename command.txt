@@ -1,0 +1,7 @@
+push 50
+push 70
+mul
+push 3000
+sub
+out
+hlt

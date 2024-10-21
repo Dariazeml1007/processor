@@ -1,0 +1,177 @@
+=========================================
+file : source/process.cpp
+line : 20
+address stack_structure : 0x0061FEF0
+size : 0,  address size : 0x0061FEF4
+capacity : 10,  address capacity : 0x0061FEF8
+address dump file : 0x0061FEFC
+address memory report file 0x0061FF00
+hash : 5381, address hash : 0x0061FF04
+poison :66666, address poison : 0x0061FF08
+address pointer left canary : 0x0061FF0C
+address pointer right canary : 0x0061FF10
+stack : 0x010C24C4
+left_canary : 0x010C24C0 value :3565
+data[0] = 66666 address = 0x010C24C4
+data[1] = 66666 address = 0x010C24C8
+data[2] = 66666 address = 0x010C24CC
+data[3] = 66666 address = 0x010C24D0
+data[4] = 66666 address = 0x010C24D4
+data[5] = 66666 address = 0x010C24D8
+data[6] = 66666 address = 0x010C24DC
+data[7] = 66666 address = 0x010C24E0
+data[8] = 66666 address = 0x010C24E4
+data[9] = 66666 address = 0x010C24E8
+right_canary : 0x010C24EC value : 3802
+=========================================
+file : source/process.cpp
+line : 20
+address stack_structure : 0x0061FEF0
+size : 1,  address size : 0x0061FEF4
+capacity : 10,  address capacity : 0x0061FEF8
+address dump file : 0x0061FEFC
+address memory report file 0x0061FF00
+hash : 2088270455, address hash : 0x0061FF04
+poison :66666, address poison : 0x0061FF08
+address pointer left canary : 0x0061FF0C
+address pointer right canary : 0x0061FF10
+stack : 0x010C24C4
+left_canary : 0x010C24C0 value :3565
+*data[0] = 50 address = 0x010C24C4
+data[1] = 66666 address = 0x010C24C8
+data[2] = 66666 address = 0x010C24CC
+data[3] = 66666 address = 0x010C24D0
+data[4] = 66666 address = 0x010C24D4
+data[5] = 66666 address = 0x010C24D8
+data[6] = 66666 address = 0x010C24DC
+data[7] = 66666 address = 0x010C24E0
+data[8] = 66666 address = 0x010C24E4
+data[9] = 66666 address = 0x010C24E8
+right_canary : 0x010C24EC value : 3802
+=========================================
+file : source/process.cpp
+line : 20
+address stack_structure : 0x0061FEF0
+size : 2,  address size : 0x0061FEF4
+capacity : 10,  address capacity : 0x0061FEF8
+address dump file : 0x0061FEFC
+address memory report file 0x0061FF00
+hash : 2696233085, address hash : 0x0061FF04
+poison :66666, address poison : 0x0061FF08
+address pointer left canary : 0x0061FF0C
+address pointer right canary : 0x0061FF10
+stack : 0x010C24C4
+left_canary : 0x010C24C0 value :3565
+*data[0] = 50 address = 0x010C24C4
+*data[1] = 70 address = 0x010C24C8
+data[2] = 66666 address = 0x010C24CC
+data[3] = 66666 address = 0x010C24D0
+data[4] = 66666 address = 0x010C24D4
+data[5] = 66666 address = 0x010C24D8
+data[6] = 66666 address = 0x010C24DC
+data[7] = 66666 address = 0x010C24E0
+data[8] = 66666 address = 0x010C24E4
+data[9] = 66666 address = 0x010C24E8
+right_canary : 0x010C24EC value : 3802
+=========================================
+file : source/operators.cpp
+line : 49
+address stack_structure : 0x0061FEF0
+size : 1,  address size : 0x0061FEF4
+capacity : 2,  address capacity : 0x0061FEF8
+address dump file : 0x0061FEFC
+address memory report file 0x0061FF00
+hash : 2083469054, address hash : 0x0061FF04
+poison :66666, address poison : 0x0061FF08
+address pointer left canary : 0x0061FF0C
+address pointer right canary : 0x0061FF10
+stack : 0x010C24C4
+left_canary : 0x010C24C0 value :3565
+*data[0] = 3500 address = 0x010C24C4
+data[1] = 66666 address = 0x010C24C8
+right_canary : 0x010C24CC value : 3802
+=========================================
+file : source/process.cpp
+line : 20
+address stack_structure : 0x0061FEF0
+size : 1,  address size : 0x0061FEF4
+capacity : 2,  address capacity : 0x0061FEF8
+address dump file : 0x0061FEFC
+address memory report file 0x0061FF00
+hash : 2083469054, address hash : 0x0061FF04
+poison :66666, address poison : 0x0061FF08
+address pointer left canary : 0x0061FF0C
+address pointer right canary : 0x0061FF10
+stack : 0x010C24C4
+left_canary : 0x010C24C0 value :3565
+*data[0] = 3500 address = 0x010C24C4
+data[1] = 66666 address = 0x010C24C8
+right_canary : 0x010C24CC value : 3802
+=========================================
+file : source/process.cpp
+line : 20
+address stack_structure : 0x0061FEF0
+size : 2,  address size : 0x0061FEF4
+capacity : 2,  address capacity : 0x0061FEF8
+address dump file : 0x0061FEFC
+address memory report file 0x0061FF00
+hash : 3735501185, address hash : 0x0061FF04
+poison :66666, address poison : 0x0061FF08
+address pointer left canary : 0x0061FF0C
+address pointer right canary : 0x0061FF10
+stack : 0x010C24C4
+left_canary : 0x010C24C0 value :3565
+*data[0] = 3500 address = 0x010C24C4
+*data[1] = 3000 address = 0x010C24C8
+right_canary : 0x010C24CC value : 3802
+=========================================
+file : source/process.cpp
+line : 20
+address stack_structure : 0x0061FEF0
+size : 1,  address size : 0x0061FEF4
+capacity : 2,  address capacity : 0x0061FEF8
+address dump file : 0x0061FEFC
+address memory report file 0x0061FF00
+hash : 2086043450, address hash : 0x0061FF04
+poison :66666, address poison : 0x0061FF08
+address pointer left canary : 0x0061FF0C
+address pointer right canary : 0x0061FF10
+stack : 0x010C24C4
+left_canary : 0x010C24C0 value :3565
+*data[0] = 500 address = 0x010C24C4
+data[1] = 3000 address = 0x010C24C8
+right_canary : 0x010C24CC value : 3802
+=========================================
+file : source/process.cpp
+line : 61
+address stack_structure : 0x0061FEF0
+size : 0,  address size : 0x0061FEF4
+capacity : 2,  address capacity : 0x0061FEF8
+address dump file : 0x0061FEFC
+address memory report file 0x0061FF00
+hash : 5381, address hash : 0x0061FF04
+poison :66666, address poison : 0x0061FF08
+address pointer left canary : 0x0061FF0C
+address pointer right canary : 0x0061FF10
+stack : 0x010C24C4
+left_canary : 0x010C24C0 value :3565
+data[0] = 500 address = 0x010C24C4
+data[1] = 3000 address = 0x010C24C8
+right_canary : 0x010C24CC value : 3802
+=========================================
+file : source/process.cpp
+line : 20
+address stack_structure : 0x0061FEF0
+size : 0,  address size : 0x0061FEF4
+capacity : 2,  address capacity : 0x0061FEF8
+address dump file : 0x0061FEFC
+address memory report file 0x0061FF00
+hash : 5381, address hash : 0x0061FF04
+poison :66666, address poison : 0x0061FF08
+address pointer left canary : 0x0061FF0C
+address pointer right canary : 0x0061FF10
+stack : 0x010C24C4
+left_canary : 0x010C24C0 value :3565
+data[0] = 500 address = 0x010C24C4
+data[1] = 3000 address = 0x010C24C8
+right_canary : 0x010C24CC value : 3802
